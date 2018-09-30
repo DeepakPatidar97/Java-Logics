@@ -23,5 +23,7 @@ public class Modulation {
         System.out.println(10%12); 
         System.out.println(11%12); 
         System.out.println((int)2.5%2); 
+        
+        int i[] = new  int[5];
     }   
 }
